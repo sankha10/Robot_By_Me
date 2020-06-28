@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robot_By_Sankha/static/css/main.c52b1b62.chunk.css",
+    "main.js": "/Robot_By_Sankha/static/js/main.e71f6381.chunk.js",
+    "main.js.map": "/Robot_By_Sankha/static/js/main.e71f6381.chunk.js.map",
+    "runtime-main.js": "/Robot_By_Sankha/static/js/runtime-main.d911de1b.js",
+    "runtime-main.js.map": "/Robot_By_Sankha/static/js/runtime-main.d911de1b.js.map",
+    "static/css/2.036b41f9.chunk.css": "/Robot_By_Sankha/static/css/2.036b41f9.chunk.css",
+    "static/js/2.660a8600.chunk.js": "/Robot_By_Sankha/static/js/2.660a8600.chunk.js",
+    "static/js/2.660a8600.chunk.js.map": "/Robot_By_Sankha/static/js/2.660a8600.chunk.js.map",
+    "index.html": "/Robot_By_Sankha/index.html",
+    "precache-manifest.2a3fd2a15aef12ee92fa3e7099c42639.js": "/Robot_By_Sankha/precache-manifest.2a3fd2a15aef12ee92fa3e7099c42639.js",
+    "service-worker.js": "/Robot_By_Sankha/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/Robot_By_Sankha/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.c52b1b62.chunk.css.map": "/Robot_By_Sankha/static/css/main.c52b1b62.chunk.css.map",
+    "static/js/2.660a8600.chunk.js.LICENSE.txt": "/Robot_By_Sankha/static/js/2.660a8600.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d911de1b.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.660a8600.chunk.js",
+    "static/css/main.c52b1b62.chunk.css",
+    "static/js/main.e71f6381.chunk.js"
+  ]
+}
